@@ -3,3 +3,5 @@ With Cortana, you can talk with your computer, asking to do your task
 Using Magnifier program build-in program to enlarge what is on your computer screen.
 Action Center where is notifications for messages
 OneDrive for syncing all your data
+
+Linux is an open source operation system, that means you can take a look at the source code of a Linux OS. Linux can be used in old system, it can be run with 256 MB of RAM and an outdated processor. Linux is perfert for programmer, it supports all the major programming languages such as Python, C++, Java, Rury, ect. The best thing about Linux is you don't have to pay for Linux OS, it is free.
