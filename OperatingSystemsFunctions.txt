@@ -5,3 +5,5 @@ Action Center where is notifications for messages
 OneDrive for syncing all your data
 
 Linux is an open source operation system, that means you can take a look at the source code of a Linux OS. Linux can be used in old system, it can be run with 256 MB of RAM and an outdated processor. Linux is perfert for programmer, it supports all the major programming languages such as Python, C++, Java, Rury, ect. The best thing about Linux is you don't have to pay for Linux OS, it is free.
+
+MacOS is very to use, it is clean, refined, stable, easy to use interface. MacOS is more security because it is Unix-base which is very difficult to exploit than Windows. MacOS is free to update as well.
